@@ -1,2 +1,2 @@
 # applied_statistical_modeling
-Here is the report, the R script and the graphs along with some other stuff
+In this github repository there is the report, the r-script, the package snapshot, the datasets (original and cleaned) and all the graphs and plots from the report
